@@ -51,7 +51,8 @@ public class MyBirthday : MonoBehaviour
                 return 31;
         }
     }
-
+    // source for code above: https://www.w3schools.com/cs/cs_conditions.php
+    // source for code above: https://www.w3schools.com/cs/cs_switch.php
     // Update is called once per frame
     void Update()
     {
